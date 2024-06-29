@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635591784 source:i:\code blocks c\waterbillingsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

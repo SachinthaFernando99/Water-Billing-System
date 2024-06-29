@@ -1,0 +1,10 @@
+Recipient type    : NonSamurdhi
+Account Number    : 1001
+New meter reading : 148
+CR Balance        : Rs 132.00
+
+Recipient type    : NonSamurdhi
+Account Number    : 1002
+New meter reading : 89
+Total amount due  : Rs 1151.65
+
